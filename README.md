@@ -139,8 +139,8 @@ Each visualization exported as high-resolution PNG and included in presentation 
 ### **K. How to Run the Project**
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Ahmedmagdy1999/cyclistic_project.git
-   cd cyclistic_project
+   git clone https://[github.com/Ahmedmagdy1999/cyclistic_project.git
+   cd cyclistic_project](https://github.com/Ahmedmagdy1999/Cyclistic-Bike-Share-Case-Study-Google-Data-Analytics-Capstone-2024-)
 
    ### My LinkedIn profile: https://linkedin.com/in/ahmedmagdyyahia
 
